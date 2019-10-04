@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"edu.waketech"},{"l":"edu.waketech.academic"},{"l":"edu.waketech.common"},{"l":"edu.waketech.test"},{"l":"edu.waketech.utils"}]
