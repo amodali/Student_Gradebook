@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"edu.waketech.academic","l":"Assignment"},{"p":"edu.waketech.academic","l":"Course"},{"p":"edu.waketech","l":"GradebookApp"},{"p":"edu.waketech.common","l":"Student"},{"p":"edu.waketech.common","l":"StudentBody"},{"p":"edu.waketech.test","l":"StudentGenerator"},{"p":"edu.waketech.utils","l":"Utils"}]
